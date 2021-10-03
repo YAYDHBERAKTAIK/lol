@@ -30,7 +30,7 @@ time.sleep(5)
 ##===##=== STARTED
 ip = str(input("IP/HOST: "))
 port = int(input("PORT: "))
-orgip =ip__init__
+orgip =ip
 
 Pacotes = [codecs.decode("53414d5090d91d4d611e700a465b00","hex_codec"),#p
                        codecs.decode("53414d509538e1a9611e63","hex_codec"),#c
